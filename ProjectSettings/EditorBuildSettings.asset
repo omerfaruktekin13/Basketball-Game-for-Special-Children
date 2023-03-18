@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/anaekran.unity
+    guid: da55084054615444d98ba67f70712ed2
+  - enabled: 1
+    path: Assets/Scenes/k1.unity
+    guid: 216f0d27d9d167046aed411c2e8e4977
+  - enabled: 1
+    path: Assets/Scenes/o1.unity
+    guid: 71258d7fc105af749ba690b9e1fd1ee5
+  - enabled: 1
+    path: Assets/Scenes/z1.unity
+    guid: 0c28e21ab85e6f14880a69c48b028f9d
+  - enabled: 1
+    path: Assets/Scenes/k2.unity
+    guid: 1834cd7eaa8b9ad4da2a8673ec9176e5
+  - enabled: 1
+    path: Assets/Scenes/o2.unity
+    guid: 9ba4adc867e261846a0b1bd6afd50a08
+  - enabled: 1
+    path: Assets/Scenes/z2.unity
+    guid: 626466d60eb34ea409b64d5d335b7650
+  - enabled: 1
+    path: Assets/Scenes/k3.unity
+    guid: c2ba9eb40fe2a0b4c96d3e98e588747b
+  - enabled: 1
+    path: Assets/Scenes/o3.unity
+    guid: 15f2cd690c47b4b41a1439caf06cce99
+  - enabled: 1
+    path: Assets/Scenes/z3.unity
+    guid: e8e17f974ec78fd4988d9ffcb9614d1d
+  m_configObjects: {}
